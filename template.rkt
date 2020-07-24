@@ -1,11 +1,9 @@
 #lang pollen
 ◊(require txexpr)
-◊(define ( . elements)
-(txexpr 'Ans empty elements))
 goal: automate repeatidely doing things
 wish-lists
 - recursively replace strings
-
+- how about a function with two arguments, giving some-tag prob. new-line another-tag ans.?
 
 ◊head{Lean verbs}
 ◊sub-head{Correct the following sentences.}
@@ -60,10 +58,10 @@ The trailers greatly enhance mobility.
 The trailers greatly improve mobility.
 
 Rotate the handcrank fully clockwise.
-Rotate the handcrank fully clockwise.
+Turn the handcrank fully clockwise.
 
 Perform this test first.
-Do this test first.
+Test this first.
 
 Everyone is aware of this problem.
 Everyone knows this problem.
@@ -72,5 +70,5 @@ The air conditioners will maintain the temperature.
 The air conditioners will remain the temperature.
 
 A simple design also minimizes costs.
-A simple design also minimizes costs.
+A simple design also diminish costs.
 }
