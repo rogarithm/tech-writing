@@ -14,28 +14,40 @@
   (datum->syntax #f module-datum))
 (provide read-syntax)
 
-(define-macro (stacker-module-begin HANDLE-EXPR ...)
+(define-macro (funstacker-module-begin HANDLE-ARGS-EXPR)
   #'(#%module-begin
-     HANDLE-EXPR ...
-     (display (first stack))))
-(provide (rename-out [stacker-module-begin #%module-begin]))
+     (display (first HANDLE-ARGS-EXPR))))
+     
+(provide (rename-out [funstacker-module-begin #%module-begin]))
 
-(define stack empty)
-
-(define (pop-stack!)
-  (define arg (first stack))
-  (set! stack (rest stack))
-  arg)
-
-(define (push-stack! arg)
-  (set! stack (cons arg stack)))
-
-(define (handle [arg #f])
-  (cond
-    [(number? arg) (push-stack! arg)]
-    [(or (equal? arg +) (equal? arg *))
-     (define op-result (arg (pop-stack!) (pop-stack!)))
-     (push-stack! op-result)]))
-(provide handle)
+(define (handle-args . args)
+                     ; the dot is a rest argument. It means:
+                     ; "gather the remaining arguments in a list
+                     ; and assign it to this variable"
+  (for/fold ([stack-acc empty]) ; accumulator comes first
+            ([arg (in-list args)] ; then an iterator.
+                   ; optional: sequence expression.
+                   ; in-list is a hint to compiler that helps it
+                   ; generate more efficient code.
+             #:unless (void? arg))
+             ; optional: guard expression.
+             ; limits the iteration with a set of condition.
+             ; in this, case, void tells when our source is blank
+             ; blank lines, when turned into datum, becomes #void.
+    
+    
+   ; iterates over a list of values, but each pass of the loop
+   ; also returns accumulator.
+   ; On each pass of for/fold, we replace the accumulator with a
+   ; whole new value.
+   
+    (cond
+      [(number? arg) (cons arg stack-acc)]
+      [(or (equal? * arg) (equal? + arg))
+       (define op-result
+         (arg (first stack-acc) (second stack-acc)))
+       (cons op-result (drop stack-acc 2))])))
+                        
+(provide handle-args)
 
 (provide + *)
