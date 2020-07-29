@@ -8,6 +8,12 @@
 (provide (rename-out [stackerizer-module-begin #%module-begin]))
                       ; is this expander exported as #%module-begin?
 
-(define-macro-cases +
-  [(+ FIRST) #'FIRST]
-  [(+ FIRST NEXT ...) #'(list '+ FIRST (+ NEXT ...))])
+(define-macro (define-ops OP ...) ; args stored in `OP ...`
+  #'(begin
+      (define-macro-cases OP ; `OP` from `OP ...`
+        [(OP FIRST) #'FIRST]
+        [(OP FIRST NEXT (... ...))
+         #'(list 'OP FIRST (OP NEXT (... ...)))])
+      ...)) ; `...` from `OP ...`
+
+(define-ops + *)
