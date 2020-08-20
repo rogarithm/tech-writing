@@ -1,3 +1,5 @@
+#lang pollen
+
 Redundancies
 Correct the following sentences.
 
@@ -15,6 +17,7 @@ The temperature is ranged from a minimum of 100 to a maximum of 120.
  The temperature is ranged from 100 to 120.
 The two transmitters are both alike in the following ways.
  The two transmitters are alike in the following ways:
+
 Technical words
 Correct the following sentences.
 
@@ -29,4 +32,4 @@ Now that we have solved these problems, we can properly align the channels.
 Correct identification cannot be made.
  Identification cannot be made.
 When fully developed, it will have some value in speech analysis.
- When fully developed, it will have values in speech analysis. 
+ When fully developed, it will have values in speech analysis.

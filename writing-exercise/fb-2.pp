@@ -34,8 +34,8 @@ The variable-speed motor is connected to the drive-transmission system.
 The impedance to ground is increased.
  The impedance to ground increases.
 The information details are described in Appendix D.
- Appendix D describes the information details. 
+ Appendix D describes the information details.
 In the following discussion the theory of operation is given.
- The following discussion gives the theory of operation. 
+ The following discussion gives the theory of operation.
 It shows that the difference in specification is caused by two factors
- It shows two factors cause the difference in specification. 
+ It shows two factors cause the difference in specification.
