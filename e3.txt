@@ -1,0 +1,75 @@
+section{
+Weak verbs
+Correct the following sentences.
+
+
+1. Table 4 is a list of the accept and error rates.
+
+as> Table 4 lists the accept and error rates.
+
+2. Operation of the calibrator is as follows:
+
+as> Operation of the calibrator follows:
+
+3. These criteria are in agreement with those for telephone systems.
+
+as> These criteria agree with those for telephone systems.
+
+4. The receiver makes connections with the trunk lines.
+
+as> The receiver connects with the trunk lines.
+
+5. Modifications of the present setup have been made.
+
+as> Setup modifications have been made.
+
+6. Our staff has done examinations on this alloy.
+
+as> Our staff examined on this alloy.
+
+7. Injection of carriers was done electrically.
+
+as> Carriers were injected electrically.
+}
+
+section{
+Other weak verbs
+Correct the following sentences.
+
+
+1. A signal generator is used to develop the test signals.
+
+as> A signal generator is used to test signals.
+
+2. The production department prepares the typed materials.
+
+as> The department products the typed materials.
+
+3. We will conduct a study of the new machines.
+
+as> We will study the new machines.
+
+4. The change results in simplification of the structure.
+
+as> The change is from simplification of the structure.
+
+5. Provide gentle circulation of the oxalic acid.
+
+as> Gently circulate oxalic acid.
+
+6. Improved operation was obtained in July.
+
+as> Operation was improved in July.
+
+7. The data transfer takes place through a magnetic drum.
+
+as> The data transfers through a magnetic drum.
+
+8. Cell temperature has an effect on the charging voltage.
+
+as> Cell temperature effects on the charging voltage.
+
+9. TIVAK handles this data conversion.
+
+as> TIVAK converts this data.
+}

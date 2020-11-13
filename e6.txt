@@ -1,0 +1,83 @@
+section{
+Auxiliary verbs
+Correct the following sentences.
+
+
+1. The device is repairable.
+
+as> The device can be repaired.
+
+2. It is possible to feed either two or three branches.
+
+as> You can feed either two or three branchs.
+
+3. He was instrumental in creating the document.
+
+as> He creates the document instrumentally.
+
+4. It is necessary to find the correct ratio.
+
+as> We need to find the correct ratio.
+
+5. It is essential that the data be within the range.
+
+as> The data should be within the range.
+
+6. This synthesizer can generate words.
+
+as> This synthesizer can make words.
+
+7. The section contains information on adjusting the assembly.
+
+as> The section informs how to adjust the assembly.
+
+8. An attempt will be made to reduce costs.
+
+as> We will try to reduce costs.
+}
+
+section{
+Ponderous writing
+Correct the following sentences.
+
+
+1. We will supply three categories of reports.
+
+as> We will supply three types of reports.
+
+2. Further examination brought out the cause.
+
+as> Further research brought out the cause.
+
+3. Two factors cause the deviation in resistance.
+
+as>The deviation in resistance is caused by two factors.
+
+4. The information is within Volume 3.
+
+as> The information is in Volume 3. 
+
+5. Notify the contractor when you ship the items listed herein.
+
+as> Inform the contractor when you ship the items listed herein.
+
+6. The electron might still fail to be collected.
+
+as> The electron might still not be collected.
+
+7. It waterproofs the material so that leaks do not occur.
+
+as> It waterproofs the material so that it doesn't leak.
+
+8. These vehicles are being prepared for shipment.
+
+as> These vehicles are ready for shipment.
+
+9. The concentrator indicates at overflow capacity.
+
+as> The concentrator points at overflow capacity.
+
+10. Some cost thousands of dollars, while others are priced in the range of cost millions.
+
+as> Some cost thousands of dollars, while others cost millions.
+}

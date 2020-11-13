@@ -1,0 +1,89 @@
+section{
+Lean verbs
+Correct the following sentences.
+
+
+1. They utilized his findings.
+
+fb> They used his findings.
+
+2. You have to accomplish the test next month.
+
+fb> You have to make the test next month.
+
+3. You can also employ separate gating circuits.
+
+fb> You can also use separate gating circuits. 
+
+4. Ascertain that they have finished it.
+
+fb> Check that they have finished it.
+
+5. The heat accomplishes the breakup.
+
+fb> The heat causes the breakup.
+
+6. Each room will be equipped with two humidifiers.
+
+fb> Each room has two humidifiers.
+
+7. Volume 3 presents the following information.
+
+fb> Volume 3 gives the following information. 
+
+8. This chart illustrates where the problem is.
+
+fb> This chart shows where the problem is.
+
+9. One-bit logic requires less power.
+
+fb> One-bit logic needs less power. 
+
+10. This will terminate the tests.
+
+fb> This will end the tests. 
+
+11. The cost may prove prohibitive.
+
+fb> The cost may be prohibitive.
+
+12. The points on the graph represent the new data.
+
+fb> The points on the graph are the new data. 
+
+13. During evaporation, the composition of the vapor varies continually.
+
+fb> During evaporation, the composition of the vapor changes continually.
+
+14. The trucks have been purchased.
+
+fb> The trucks have been bought.
+
+15. We have established three indoctrination centers.
+
+fb> We have set up three indoctrination centers.
+
+16. The trailers greatly enhance mobility.
+
+fb> The trucks greatly increase mobility.
+
+17. Rotate the handcrank fully clockwise.
+
+fb> Turn the handcrank fully clockwise.
+
+18. Perform this test first.
+
+fb> Do this test first.
+
+19. Everyone is aware of this problem.
+
+fb> Everyone knows this problem. 
+
+20. The air conditioners will maintain the temperature.
+
+fb> The air conditioners will keep the temperature. 
+
+21. A simple design also minimizes costs.
+
+fb> A simple design also lowers costs.
+}
