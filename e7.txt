@@ -25,7 +25,7 @@ as> Study was easy.
 
 6. There was a slight preference for the four-bit system over the V-T system.
 
-as> The four-bit system was prefered over the V-T system.
+as> The four-bit system was preferred over the V-T system.
 
 7. The code system that was selected was the single-network system.
 
@@ -37,7 +37,7 @@ as> Operating sets develop a faint whirr.
 
 9. We could easily make such an oscilloscope.
 
-as> We made such an osciloscope.
+as> We made such an osciloscope <- subjunctive could?
 }
 
 section{
