@@ -1,6 +1,6 @@
 1. 메시지 전송, 업로드/다운로드, 자동 동기화, 위치 서비스 등의 데이터 서비스 이용 시 가입한 요금제에 따라 추가 요금이 발생할 수 있다. 대용량 데이터 서비스 이용 시에는 Wi-Fi 사용을 권장한다.
 
-refined> Using data services can cause an additional depending on a registered plan when using data services like message transfer, upload/download, auto sync, geographical service, etc. Using Wi-Fi is recommended for services for large data.
+as> Using data services can cause an additional depending on a registered plan when using data services like message transfer, upload/download, auto sync, geographical service, etc. Using Wi-Fi is recommended for services for large data.
 
 2. 제품에 기본으로 제공되는 애플리케이션이나 서비스는 부득이한 사정에 의해 예고 없이 변경되거나 중단될 수 있다.
 
