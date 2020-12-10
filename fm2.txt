@@ -1,4 +1,4 @@
-1. 메시지 전송, 업로드/다운로드, 자동 동기화, 위치 서비스 등의 데이터 서비스 이용 시 가입한 요금제에 따라 추가 요금이 발생할 수 있다. 대용량 데이터 서비스 이용 시에는 Wi-Fi 사용을 권장한다.
+a1. 메시지 전송, 업로드/다운로드, 자동 동기화, 위치 서비스 등의 데이터 서비스 이용 시 가입한 요금제에 따라 추가 요금이 발생할 수 있다. 대용량 데이터 서비스 이용 시에는 Wi-Fi 사용을 권장한다.
 
 fb> You may incur additional charges for data services, such as messaging, uploading and downloading, auto-syncing, or using location services depending on your data plan. For large data transfers, it is recommended to use the WiFi feature.
 
