@@ -1,23 +1,25 @@
+#lang pollen
+
 1. 콘센트, 연장 케이블 및 어댑터에 과부하가 걸리지 않게 해야 한다. 상해나 감전 사고가 발생할 수 있다.
 
-as> 
+as> Make sure that outlets, cables, and adapters not to be overloaded. there's a danger of injury or electric accident.
 
 2. 전원 코드를 임의로 개조하거나 변경하지 말아야 한다.
 
-as>
+as> Do not attempt to modify or change the power cord.
 
 3. 젖은 손으로 전원 플러그를 꽂거나 빼지 말아야 한다.
 
-as>
+as> It is dangerous to handle the power plug with wet hands.
 
 4. 전원 플러그를 연속하여 꽂았다 빼지 말아야 한다.
 
-as>
+as> Power plug must not be ◊?{connected} and pulled ◊?{successively}.
 
 5. 물이 샜을 경우 전원 플러그를 뺀 상태에서 물기를 완전히 제거해야 한다.
 
-as>
+as> In case of water leak, the water should be drained completely after the power plug get pulled off.
 
 6. 루프 처리를 하지 않았다면 계기 후면의 광섬유 케이블을 사용하지 않는 경우, 보호 캡을 씌워야 한다.
 
-as>
+as> If loop setup hasn't been made, protect cap should be covered if you don't use light cable in ◊?{backside of meter}.
