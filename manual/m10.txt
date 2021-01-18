@@ -14,8 +14,6 @@ as> Lighthouse should be next to the installed appliance.
 
 as> The product should not be used outside because it's designed for indoor use only.
 
-◊xref[https://www.google.com/search?q=%22manual%22%2B%22should+not+be+used+outside%22%2B%22indoor%22&ei=9pwDYN6aE83h-Aa9hqhA&start=10&sa=N&ved=2ahUKEwje7bWO8qHuAhXNMN4KHT0DCggQ8tMDegQIBhA1&biw=960&bih=978]{indoor use}
-
 5. 빠르고 쉽게 참조할 수 있도록 매뉴얼을 접근이 편한 장소에 보관하도록 한다.
 
 as> We suggest you always keep manual at hand for quick and easy access.
