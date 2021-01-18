@@ -14,11 +14,11 @@ as> If a big and weird sound from the product or smells burning with smoke, pull
 
 4. 여름철이나 습기가 많을 때에는 응결수가 소량 흘러나올 수 있으나 이는 제품 이상이 아니다. 차가운 날씨에도 지속적으로 응결수가 흘러 나올 경우, 원수 공급 밸브를 잠그고 전원 플러그를 뺀 후 서비스센터에 연락해야 한다.
 
-as> A small amount of condensation water can be ◊?{exposed} during summer or humid weather, but it's not a matter of product. but if the condensation water is constantly exposed when it's cold, tighten the raw water supply valve, pull the power plug off, call the service center.
+as> A small amount of condensation water can be ◊?{leaked} in summer or humid weather, but it's not a product abnormality. If the condensation water is constantly ◊?{leaked} in cold weather, lock the raw water supply valve, pull the power plug off, and then contact the customer service center.
 
 5. 정수된 물을 보관할 때는 밀폐된 용기에 담아서 냉장고에 넣어 두어야 한다. 보관된 물은 2일 이내에 음용하는 것이 좋다.
 
-as> When storing purified water, it should be contained in sealed vessel to the refrigeator. The stored water should be consumed within 2 days.
+as> When storing purified water, store it in the refrigeator by containing in sealed vessel. The stored water should be consumed within 2 days.
 
 6. 온수는 고온이므로 특히 어린 아이가 사용할 시 주의를 요한다.
 
@@ -26,4 +26,4 @@ as> The warm water is high temperature, care is required especially when young c
 
 7. 주의해서 컴퓨터를 다뤄야 한다.
 
-as> Careful to use computer
+as> Careful to use computer.
