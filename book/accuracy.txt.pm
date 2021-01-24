@@ -24,14 +24,30 @@ Because it's easier to update Web-based document, users expect this document to 
 
 ◊bold{Maintain consistency of all information about a subject.}
 
-When there's multiple places the information is located, you may need to reuse some part of the information. If the part is short and unlikely to change in the future, just copy and paste would be sufficient. For longer one, and if you don't want to copy, use single source approach. That is, use the same source, but different outputs.
+When there's multiple places the information is located, you may need to reuse some part of the information. If the part is short and unlikely to change in the future, just copy and paste would be sufficient. For longer one, and if you don't want to copy, use single source approach. That is, use the same source for different outputs.
 
-◊?{is the same source is the same source in the pollen documentation, "same source, multiple output format"? Or using an information part as a same source in multiple documents, with/without few modifications? Or are the modifications are conditional for specific output formats?}
+In this book, reuse is the same as single source approach.
+
+Parts (that is, ◊uc{topic}) of source can be used in multiple documents. When you need an update, editing only source helps to improve consistency and time consuming.
 
 ◊bold{Reuse information when possible}
 
+usecases. For detail, see p79.
 
+◊bold{Avoid introducting inconsistencies and eliminate those that you find}
+
+There's information that cannot be reused. You must synchronize them. To be effective, minimize the number of repeated information through multiple documents.
+
+If you use a table in your document and refer to the table somewhere in the document, accurately and consistently write the required content to use. Inaccurately refered content makes users confused.
+
+Good practices mentioned by the author is well explained. If you need detail, see p82.
+
+Headings or names of elements should be consistent with their content of the topic. Also, examples should be consistent with the content that related to the examples.
 
 ◊bold{Use tools that automate checking for accuracy.}
 
+Typographical and grammar errors break users' trust about the document. You can eaily find and correct these errors by using automated tools. Choose a proper tool and use carefully.
+
 ◊bold{Check the accuracy of references to related information.}
+
+
