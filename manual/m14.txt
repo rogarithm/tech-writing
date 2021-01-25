@@ -1,14 +1,14 @@
 1. 손가락이 커버에 끼지 않게 해야 한다.
 
-as> Make sure not to get your finger caught in the cover.
+as> Make sure not to get fingers caught in the cover.
 
 2. 제품을 지게차로 옮길 때 보호를 위해 제품 바닥에 보목을 괴도록 해야 한다.
 
-as> When moving the product with forklift, put support wood underneath the product for proection.
+as> When using forklift to move the product, put a splint underneath the product to reduce damage to the product.
 
 3. 허용치를 초과하는 범위까지 타이어에 공기를 주입시켜서는 안 된다.
 
-as> Do not pump too much air to the tire that exceeds acceptable value.
+as> Do not pump too much air to the tire that exceeds an acceptable value.
 
 4. 수압이 센 물에 제품이 닿지 않도록 주의해야 한다.
 
@@ -20,4 +20,4 @@ as> Do not open or close the battery cover when your hands are wet or when the p
 
 6. 사용하지 않을 경우 에너지를 절약하기 위해 충전기를 빼두도록 한다.
 
-as> When don't use, unplug the charger to save energy.
+as> When not using the charger, unplug it from the wall outlet to save energy.
