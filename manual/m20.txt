@@ -12,13 +12,13 @@ as> Press the connector until you hear the click sound.
 
 4. 스마트폰의 애플리케이션을 길게 누르고 다른 애플리케이션 위로 드래그하세요.
 
-as> Touch and hold an application of the smartphone, then drag the app onto another application.
+as> Touch and hold an application of the smartphone, then drag the application onto another application.
 
 ◊xref[https://support.apple.com/guide/iphone/move-and-organize-apps-iph822ece7dd/ios]{iphone app organize}
 
 5. On, Off가 교대로 바뀐다.
 
-as> On, Off switches in turn.
+as> On, Off switches alternately.
 
 6. 설치 후 케이블을 정리하세요.
 
