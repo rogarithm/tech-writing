@@ -1,14 +1,14 @@
 # tech-writing
-technical writing problems &amp; feedbacks
+technical writing exercises
 
 This is my personal repository to version control my technical writing exercises.
 
 **Description**
 
-- manual: my answers and feedbacks for manual writing
+- manual: ko->eng translation exercises for manual writing
 
-- compare: compare my answer and feedback with a text file made by git diff --no-index
+- others: notes of IBM book _Developing Quality Technical Information_
 
-- style-exercise: my answers and feedbacks for style writing
+- style-exercise: ko->eng translation exercises for style writing
 
-- misc: notes for IBM book _Developing Quality Technical Information_
+- util: scripts to automate repetitive tasks related to this project
