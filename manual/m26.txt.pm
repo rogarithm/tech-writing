@@ -1,6 +1,6 @@
 1. 해로운 물질을 아이들이 접촉할 수 없도록 차단하세요.
 
-as> Place harmful material away from children so that they don't touch it.
+as> Prevent children "from being exposed to toxic substance".
 
 2. 6개 메뉴를 사용할 수 있습니다. 
 
