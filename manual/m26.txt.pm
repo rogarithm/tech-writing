@@ -1,31 +1,28 @@
-1. 제품이 꺼진 경우, 전화를 다른 번호로 착신 전환하도록 설정하세요.
+1. 해로운 물질을 아이들이 접촉할 수 없도록 차단하세요.
 
-as> When the product is turned off, set up to forward a call to another number.
+as> Place harmful material away from children so that they don't touch it.
 
-◊link[https://cdn-media.vtechphones.com/media/p/document2/products/%7BD2E7336F-69F6-4387-B9CC-0DDE6AE56690%7D/VTech_VSP725_User_Guide_11142014.pdf]{forward to another number}
+2. 6개 메뉴를 사용할 수 있습니다. 
 
-2. 다음 메시지를 포함한 대기 입력창이 나타납니다.
+as> Six menus available.
 
-as> Input wait window appears including the following message.
+3. 4자리 비밀번호를 입력하세요.
 
-3. 설명이 말풍선 도움말로 표시됩니다.
+as> Type 4 q password.
 
-as> The description appears as "balloon help".
+4. 천의 자리수에서 값을 올림하세요. 
 
-4. 누를 때마다 네 개의 표시 모드가 번갈아가며 나타납니다.
+as> Round up the value in thousand place.
 
-as> The four display modes appear in turn with each tap.
+5. 용제 1에 물 10의 비율로 섞으세요.
 
-5. 그것은 규정한 수만큼 데이터 로그를 표시할 수 있습니다.
+as> Mix q and water with 1:10 ratio.
 
-as> It displays data logs for a specified number.
+6. 프로세서의 백분의 1만큼씩 증가하여 변합니다.
 
-◊comment{"a specified" as the number is not chosen yet, and we don't know it yet.}
+as> It changes by one hundredth of the processor.
 
-6. 그것은 소수점 셋째 자리까지 값을 표시합니다.
+7. 그것은 3 % 이상 다르지 않습니다.
 
-as> It displays a value up to 3 decimal places.
-
-7. 아이가 길을 잃거나 행방불명되는 일이 없도록 방지하세요.
-
-as> Prevent a child from getting lost or from going missing.
+as> It's not different more than 3 %.
+not more different
