@@ -1,12 +1,6 @@
 1. 현재 날짜의 3개월 앞과 뒤의 범위 내 값을 취해야 합니다.
 
-as'''> select a value between the date before three months the current date and after three months the current date.
-
-as''>select a value with its range between before 3 months and after 3 months of the current date.
-
-as'> select a value with its range between two values: 3 months before the current date, and 3 months after the current date.
-
-as> Choose a value with its date range between date 3 months before and date 3 month after the current date.
+as> Select a value of the range within 3 months before and after the current date.
 
 2. 임의로 제품을 개조하거나 조작해서는 안 됩니다.
 
@@ -14,7 +8,7 @@ as> Do not arbitrarily modify or operate the product.
 
 3. 자세한 내용은 '2.1 주요 특징'을 참고하세요.
 
-as> For details, refer to section 2.1 the Main Characteristcs.
+as> For details, refer to section 2.1 "the Main Characteristcs".
 
 ◊comment{can we count detail? examples for using quotes}
 
