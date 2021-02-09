@@ -1,8 +1,3 @@
-#lang pollen
-
-◊(require racket/list)
-◊(apply string-append (filter string? (flatten doc)))
-
 1. 중복 연락처를 통합해 연락처 목록을 정리하세요.
 
 as> Organize contact list by merging duplicate contacts.
