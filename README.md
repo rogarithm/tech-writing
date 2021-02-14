@@ -4,7 +4,7 @@
 
 ## 마크업 및 마크다운 샘플은 여기서 볼 수 있습니다.
 
-**Markdown**: 본 문서가 샘플입니다. 포맷팅이 적용되기 전 파일은 [`markdown-sample.txt`](https://github.com/rogarithm/tech-writing/blob/switch-desk/markdown-sample.txt)에서 확인할 수 있습니다.
+**Markdown**: 본 문서가 샘플입니다. 포맷팅이 적용되기 전 파일은 [`markdown-sample.txt`](https://github.com/rogarithm/tech-writing/blob/portfolio/markdown-sample.txt)에서 확인할 수 있습니다.
 
 **HTML**: IBM의 [Developing Quality Technical Information](https://www.amazon.com/Developing-Quality-Technical-Information-Handbook/dp/0131477498) 중 Chapter 3. Accuracy에 해당하는 부분을 읽고 정리한 문서입니다. 문서는 [여기](https://rogarithm.github.io/sample-website/accuracy.html)서 확인할 수 있습니다. 소스는 [여기](https://github.com/rogarithm/sample-website)서 확인할 수 있습니다. 
 
