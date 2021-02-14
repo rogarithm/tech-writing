@@ -1,6 +1,6 @@
 #lang pollen
 
-◊title{style}
+◊(define-meta title "Style")
 
 ◊section{}
 
@@ -24,7 +24,7 @@ There's two cases: the relative pronouns (which and that) and indefinite pronoun
 
 The relative pronouns are either restrictive or nonrestrictive. Nonrestrictive clauses do not specify its range of meaning, so even when they are dropped out, there's no loss in meaning. Nonrestrictive pronouns are preceded by comma. Many style guides recommend using that with restrictive clauses, and which (plus commas) with nonrestrictive clauses.
 
-◊start-here
+start here.
 
 ◊section{use correct and consistent spelling}
 
