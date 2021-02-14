@@ -1,2 +1,0 @@
-for x=$X
-git diff --no-index m$X.txt fm$X.txt > ~/programs/tech-writing/compare/cmp-m$X.txt.pm
