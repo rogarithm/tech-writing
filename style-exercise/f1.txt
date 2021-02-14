@@ -20,7 +20,7 @@ fb> The search is performed rapidly.
 
 5. We have also manufactured TV transmitting and camera equipment.
 
-fb> We have also manufactured TV transmitters and cameras. 
+fb> We have also manufactured TV transmitters and cameras.
 
 6. The temperature is ranged from a minimum of 100 to a maximum of 120.
 

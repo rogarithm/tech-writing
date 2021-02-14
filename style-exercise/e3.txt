@@ -1,4 +1,3 @@
-section{
 Weak verbs
 Correct the following sentences.
 
@@ -30,9 +29,8 @@ as> Our staff examined on this alloy.
 7. Injection of carriers was done electrically.
 
 as> Carriers were injected electrically.
-}
 
-section{
+
 Other weak verbs
 Correct the following sentences.
 
@@ -72,4 +70,3 @@ as> Cell temperature effects on the charging voltage.
 9. TIVAK handles this data conversion.
 
 as> TIVAK converts this data.
-}

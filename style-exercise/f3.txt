@@ -1,11 +1,10 @@
-section{
 Weak verbs
 Correct the following sentences.
 
 
 1. Table 4 is a list of the accept and error rates.
 
-fb> Table 4 lists the accept and error rates. 
+fb> Table 4 lists the accept and error rates.
 
 2. Operation of the calibrator is as follows:
 
@@ -25,14 +24,13 @@ fb> The present setup has been modified.
 
 6. Our staff has done examinations on this alloy.
 
-fb> Our staff has examined this alloy. 
+fb> Our staff has examined this alloy.
 
 7. Injection of carriers was done electrically.
 
-fb> Carriers were injected electrically. 
-}
+fb> Carriers were injected electrically.
 
-section{
+
 Other weak verbs
 Correct the following sentences.
 
@@ -72,4 +70,3 @@ fb> Cell temperature affects the charging voltage.
 9. TIVAK handles this data conversion.
 
 fb> TIVAK converts this data.
-}
