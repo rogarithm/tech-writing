@@ -1,3 +1,5 @@
+저작권 페이지 2
+
 1. 문서의 정확성 보장을 위해 만전을 기하겠지만 혹 오류가 발견되는 경우 A㈜는 책임을 지지 않는다.
 
 as> Although every effort has been made to provide accurate document, A, inc assumes no responsibility for possible errors.

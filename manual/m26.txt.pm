@@ -1,3 +1,5 @@
+절차서 구성 8
+
 1. 해로운 물질을 아이들이 접촉할 수 없도록 차단하세요.
 
 as> Prevent children "from being exposed to toxic substance".

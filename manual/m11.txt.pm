@@ -1,3 +1,5 @@
+안전을 위한 주의사항 - 사용 관련 1
+
 1. 제품 위에 액체를 담은 용기나 철제류를 올려두어선 안 된다. 제품 내부에 들어가면 감전 및 화재가 발생할 수 있고 제품 손상의 원인이 된다.
 
 as> Do not put an item made from iron or a container with liquid on the product. When it goes into the product, it may cause an electric shock or fire, and can be a reason for product damage.

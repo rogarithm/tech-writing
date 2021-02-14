@@ -1,3 +1,5 @@
+절차서 구성 2
+
 1. 제품이 동작하지 않고 아무 반응이 없으면 전원 버튼을 7초 이상 길게 누르세요.
 
 as> When the product is not operating properly or not responding at all, press the power button for more than 7 seconds.
@@ -14,7 +16,7 @@ as> Press the connector until you hear the click sound.
 
 as> Touch and hold an application of the smartphone, then drag the application onto another application.
 
-◊xref[https://support.apple.com/guide/iphone/move-and-organize-apps-iph822ece7dd/ios]{iphone app organize}
+◊link[https://support.apple.com/guide/iphone/move-and-organize-apps-iph822ece7dd/ios]{iphone app organize}
 
 5. On, Off가 교대로 바뀐다.
 

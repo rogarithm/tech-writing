@@ -1,3 +1,5 @@
+안전을 위한 주의사항 - 연결 관련 2
+
 1. 멀티 콘센트 또는 연장 케이블을 사용할 경우에 표기된 정격용량(전압/전류)을 넘지 않도록 한다. 누전 시 감전 및 화재의 위험이 있다.
 
 as> Make sure the rated capacity (voltage/current) not exceeded when using multi outlets or extension cables. It may cause a fire or electric shock when short circuit occurs.

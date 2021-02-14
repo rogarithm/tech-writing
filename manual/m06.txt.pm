@@ -1,3 +1,5 @@
+안전을 위한 주의사항 - 연결 관련 1
+
 1. 콘센트, 연장 케이블 및 어댑터에 과부하가 걸리지 않게 해야 한다. 상해나 감전 사고가 발생할 수 있다.
 
 as> Make sure that outlets, extension cables, and adapters not to be overloaded to prevent injury or electrical shock incident.

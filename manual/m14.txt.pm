@@ -1,3 +1,5 @@
+안전을 위한 주의사항 - 사용 관련 4
+
 1. 손가락이 커버에 끼지 않게 해야 한다.
 
 as> Make sure not to get fingers caught in the cover.

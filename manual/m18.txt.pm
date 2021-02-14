@@ -1,3 +1,5 @@
+각 부의 명칭/화면 구성
+
 1. 제품의 구성, 명칭 및 역할은 아래와 같다. 숙지 후 본 사용설명서를 읽으면 이해가 쉽다.
 
 as> The composition, part names, and functions of the product are as follows. After you're familiar with it, it'll be easy to understand the operation manual.

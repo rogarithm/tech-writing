@@ -1,3 +1,5 @@
+절차서 구성 9
+
 1. 현재 날짜의 3개월 앞과 뒤의 범위 내 값을 취해야 합니다.
 
 as> Select a value of the range within 3 months before and after the current date.

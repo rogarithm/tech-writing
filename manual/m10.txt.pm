@@ -1,3 +1,5 @@
+안전을 위한 주의사항 - 설치 관련 3
+
 1. 데이터베이스는 적어도 30 GB의 여유 공간을 확보해야 한다.
 
 as> Database must have at least 30 GB of extra storage space.
@@ -21,7 +23,7 @@ as> We suggest you always keep manual at hand for quick and easy access.
 6. 수심 1.5 m가 넘는 곳에 30분 이상 잠기게 하면 안 된다.
 
 as> Do not keep the product submerged in water for more than 30 minutes deeper than 1.5 meters.
-◊xref{https://www.samsung.com/nz/support/mobile-devices/is-samsung-galaxy-s9-s9plus-waterproof/}
+◊link[https://www.samsung.com/nz/support/mobile-devices/is-samsung-galaxy-s9-s9plus-waterproof/]{source}
 
 7. 커버를 제거할 때 손톱이 제품에 끼지 않도록 주의해야 한다.
 

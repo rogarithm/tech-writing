@@ -1,3 +1,5 @@
+안전을 위한 주의사항 - 유지보수 관련 1
+
 1. 제품의 표면과 후면부는 부드러운 헝겊으로 닦아야 한다.
 
 as> Wipe the front and back of the product with soft cloth.

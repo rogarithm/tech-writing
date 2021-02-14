@@ -1,3 +1,5 @@
+절차서 구성 1
+
 1. 제품을 구입한 후 최초로 사용하거나 장시간 방치하다 사용하는 경우, 배터리를 충전한 후 사용해야 한다.
 
 as> Make sure to charge the battery when initially using the product after purchase or when the product has not been used for a long period of time. 

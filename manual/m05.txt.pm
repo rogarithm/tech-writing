@@ -1,3 +1,5 @@
+안전을 위한 주의사항 - 도입부
+
 1. 사용자의 안전을 보호하고 재산상의 손해를 막기 위한 내용이다. 반드시 읽고 올바르게 사용하기 바란다.
 
 as> This content is for protecting user's safety, and preventing property damages. Please read this and use rightly.

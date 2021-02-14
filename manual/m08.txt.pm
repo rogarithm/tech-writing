@@ -1,4 +1,6 @@
-. 얼기 쉬운 장소나 전열기 옆에는 설치하지 말아야 한다.
+안전을 위한 주의사항 - 설치 관련 1
+
+1. 얼기 쉬운 장소나 전열기 옆에는 설치하지 말아야 한다.
 
 as> Do not install in the areas that can be easily frozed or areas next to heater.
 

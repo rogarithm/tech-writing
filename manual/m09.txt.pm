@@ -1,3 +1,5 @@
+안전을 위한 주의사항 - 설치 관련 2
+
 1. 어린이 손이 닿지 않는 곳에 설치해야 한다. 제품의 손상 및 어린이에게 상해가 생길 수 있습니다.
 
 as> The product should be installed away from children. It may damage the product and cause children's injuries.

@@ -1,3 +1,5 @@
+절차서 구성 6
+
 1. 그 카드는 40 km 거리까지 지원할 수 있습니다. 
 
 as> The card supports distances up to 40 km.

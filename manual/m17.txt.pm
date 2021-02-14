@@ -1,3 +1,5 @@
+안전을 위한 주의사항 - 후처리 관련
+
 1. 고장난 배터리는 비전도 상자에 격리 보관해야 한다.
 
 as> Keep defective batteries isolated in a non-conductive box.

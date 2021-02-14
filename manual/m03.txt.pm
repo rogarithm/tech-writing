@@ -1,3 +1,5 @@
+저작권 페이지 1
+
 1. 이 문서의 모든 저작권은 A㈜에 있고 미국에서 인쇄된 버전이다.
 
 as> A© all rights reserved, printed in the United States.
