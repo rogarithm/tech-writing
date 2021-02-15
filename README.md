@@ -12,7 +12,7 @@
 
 ## 멘토링 관련 디렉토리의 내용을 설명합니다.
 
-**style-exercise**: style writing과 연관된 멘토링 과제를 담고 있습니다. 파일 별 멘토링 주제는 다음 표와 같습니다. f1.txt ~ f9.txt 파일은 각 번호에 해당하는 과제에 대한 피드백입니다.
+**style-exercise**: style writing과 연관된 멘토링 과제를 담고 있습니다. 파일 별 멘토링 주제는 다음 표와 같습니다. f1.txt ~ f8.txt 파일은 각 번호에 해당하는 과제에 대한 피드백입니다.
 
 | 파일명 | 주제 |
 | :---   | :--- |
@@ -23,6 +23,8 @@
 | e5.txt | lean verbs |
 | e6.txt | auxiliary verbs ponderous writing |
 | e7.txt | releasing verbs being personal or being impersonal |
+| e8.txt | punctuation & styles, emphasizing and subordinating, |
+|        | lightening and locating modifiers |
 
 
 <br>
