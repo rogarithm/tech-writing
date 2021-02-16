@@ -1,10 +1,10 @@
 1. 그림 4에서 보여지는 것처럼 바닥이 중량을 지탱할 수 있다는 뜻입니다.
 
-as> As you can see in the figure 4, the floor can support the weight.
+as> As you can see in the figure 4, it means that the floor can support the weight.
 
 2. 카드를 살짝 눌러서 트레이에 끼워 고정하세요.
 
-as> Fasten the card to the tray by slightly pushing the card to the tray.
+as> Fasten a card to the tray by lightly pressing the card.
 
 3. 단자에 과도한 힘을 가하지 마세요.
 
@@ -16,7 +16,7 @@ as> Slide the switch to the left end.
 
 5. 그것을 카드리더에 긁어야 합니다. 
 
-as> You need to swipe it "in" the card reader.
+as> You need to swipe it in a card reader.
 
 6. 그것은 최대값보다 26 % 큽니다. 
 
@@ -28,4 +28,6 @@ as> Push the button as many times as you want.
 
 8. 그것은 오른쪽 마우스 버튼과 동일한 동작을 합니다.
 
-as> It works the same as right button of mouse.
+as> It works the same as a right button of mouse.
+
+◊comment{right button of mouse seems general. But this sentence isn't intended to say a common knowledge, at least I guess. Thus I used 'a'.}
