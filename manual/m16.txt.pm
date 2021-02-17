@@ -1,3 +1,5 @@
+안전을 위한 주의사항 - 유지보수 관련 2
+
 1. 허가 받지 않은 변경으로 인해 작동 권한이 박탈될 수 있다.
 
 as> You may lose the operating authority due to unauthorized modification.

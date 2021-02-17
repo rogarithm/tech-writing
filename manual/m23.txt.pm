@@ -1,3 +1,5 @@
+절차서 구성 5
+
 1. 작업장을 청결한 상태로 유지하세요.
 
 as> Maintain the work area in a clean condition.

@@ -1,3 +1,5 @@
+절차서 구성 4
+
 1. 진행 바가 표시된 상태에서 소리를 재생하세요.
 
 as> Play the sound while the progress bar is displayed.

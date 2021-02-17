@@ -1,3 +1,5 @@
+절차서 구성 7
+
 1. 제품이 꺼진 경우, 전화를 다른 번호로 착신 전환하도록 설정하세요.
 
 as> When the product is turned off, set up to forward a call to another number.

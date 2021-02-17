@@ -1,3 +1,5 @@
+안전을 위한 주의사항 - 사용 관련 3
+
 1. 장치에 강한 충격을 가하지 말아야 한다.
 
 as> Do not apply any excessive pressure on the equipment.

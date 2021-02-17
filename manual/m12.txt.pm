@@ -1,7 +1,9 @@
+안전을 위한 주의사항 - 사용 관련 2
+
 1. 레이저를 직접 쐬거나 반사된 빛을 쐬었을 때 눈에 부상을 입을 수 있다.
 
 as> Exposure to direct beam or reflection from a laser may cause an eye injury.
-◊xref[https://www.ehs.harvard.edu/sites/default/files/laser_safety_manual.pdf]{13}
+◊link[https://www.ehs.harvard.edu/sites/default/files/laser_safety_manual.pdf]{13}
 
 2. 제품의 포트(구멍)나 통풍구 등을 막지 말고, 이물질이 들어가지 않게 한다.
 
