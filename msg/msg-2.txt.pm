@@ -1,6 +1,6 @@
 1. 현재 표시된 내용을 변경하시겠습니까?
 
-as> Do you want to modify currently indicated content?
+as> Do you want to change the currently displayed content?
 
 2. 현재의 설정값을 저장하시겠습니까?
 
