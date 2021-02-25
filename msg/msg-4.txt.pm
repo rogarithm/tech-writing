@@ -8,11 +8,11 @@ as> Select at least one item.
 
 3. 등록한 주소만 삭제할 수 있습니다. 삭제하려면 권한이 있어야 합니다. 
 
-as> Only registered address can be deleted. Authorization is required to delete.
+as> Only registered addresses can be deleted. Authorization is required to delete.
 
 4. 필수 파라미터 누락입니다. 
 
-as> A required parameter was omitted.
+as> A required parameter is missing.
 
 5. 파라미터가 유효하지 않습니다. 
 
