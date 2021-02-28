@@ -4,7 +4,9 @@ as> The contract will have no effect.
 
 2. 기획서는 집행위에 상정되어야 한다.
 
-as> The plan should be proposed to an executive committee.
+as> The plan should be proposed to the executive committee.
+
+◊comment{but how do I know that the word executive committee is specific or not?}
 
 3. 기획이 승인 후 구체화되어야 한다.
 
@@ -20,4 +22,4 @@ as> Personal information may be used for other purposes.
 
 6. 선적이 계약서에 명시된 날짜 안에 이루어질 수 없다.
 
-as> The shipping can't be made within date specified in the contract.
+as> The shipping can't be made within the date specified in the contract.
