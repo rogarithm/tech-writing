@@ -16,12 +16,12 @@ as> In order to prove the above.
 
 5. 회사는 사용자로 인해 초래된 어떤 상해에 대해서도 법적 책임을 지지 않는다.
 
-as> The comapany assumes no legal responsibility or liability for any damage caused by user.
+as> The comapany assumes no legal responsibility or liability for any damage caused ◊check{by user}.
 
 ◊comment{I guess user may be countable or not, depending on its detail}
 
 6. 회사가 면책을 못 면하는 경우, 회원은 초래된 손해에 대해 변상해야 한다.
 
-as> When the company is not be exempted from obligation, member shall compensate for all damages.
+as> When the company is not exempted from obligation, ◊check{member} shall compensate for all damages.
 
 ◊comment{searched with "not * exempted from the obligation"}
