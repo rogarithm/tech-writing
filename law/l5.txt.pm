@@ -1,10 +1,10 @@
 1. 회사가 면책될 수 없는 경우, 이와 관련하여 회사에 발생한 모든 손해을 배상해야 한다.
 
-as> If the company can't be exemtped, all damage caused by the company shall be compensated.
+as> If the company can't be exempted, all damage caused by the company shall be compensated.
 
 2. 고객에 대한 어떤 정보도 알려줄 수 없다.
 
-as> Any information of client shall not be divulged.
+as> Any information of the client shall not be divulged.
 
 3. 이것은 3개월 미만의 피고용인들에게도 동일하게 적용된다.
 
