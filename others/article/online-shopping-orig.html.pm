@@ -1,0 +1,3 @@
+#lang pollen
+
+◊q factors behind ◊q popularity of ◊q online shopping are ◊q no mystery. ◊q rise of ◊q online marketplace has had ◊q effect of democratizing ◊q market, making it easier for ◊q small companies and start-up companies to compete with ◊q larger corporations. This is because ◊q having ◊q online store removes ◊q necessity for ◊q brick-and-mortar location, and ◊q small companies are able to create ◊q professional online stores very cheaply. ◊q These changes to ◊q market translate to ◊q increased competition, which is always beneficial to ◊q individual consumers. ◊q People love to shop online not only for ◊q convenience, but also for ◊q lower prices and ◊q plethora of ◊q options that ◊q onlines shopping provides.
