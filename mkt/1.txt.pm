@@ -12,4 +12,4 @@ as> Our company has grown as leading company in the field of NGN.
 
 4. 우리 회사는 그저 그런 평범한 회사가 아니다.
 
-as> We're not an ordinary company.
+as> We're much more than a normal company.
