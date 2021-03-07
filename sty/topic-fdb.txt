@@ -1,0 +1,35 @@
+주문 생성하기
+
+fb> Creating an order
+
+주문을 생성하려면 다음의 절차를 따르세요.
+
+fb> In order to sell a product(s) to any customer, you must create an order in advance. Keep the following steps to create an order:
+
+1. Icon > Shopping Cart > Shopping Cart를 터치하세요.
+
+fb> 1. Tap MENU () > Shopping Cart > Shopping Cart. Then the registration screen appears.
+
+2. 화면 상단의 Icon을 터치한 후, Salesperson을 선택하세요.
+
+fb> 2. Tap ▼  at the top and then select Salesperson. The login user is selected by default. If necessary, change the displayed salesperson.
+
+- 로그인한 사용자가 기본으로 선택되어 있으며, 필요 시 목록에서 다른 사용자를 선택하여 변경할 수 있습니다.
+
+fb> 3. Tap the search () icon for Customer and then select the desired customer.  It is not required. To register a new customer, tap &.
+
+3. Customer 항목의 Icon를 클릭한 후, Customer를 선택하세요.
+
+fb> For more information about registration of a new customer, see Registering a new customer on page 16.
+
+- Customer 항목은 필수 입력 항목이 아닙니다. 기존에 등록되어 있지 않은 고객을 새로 등록하려면, Icon를 터치하세요. 신규고객 등록에 대한 자세한 내용은 16페이지의 "신규 고객 등록하기"를 참고하세요.
+
+fb> 4. Tap the scan icon () to scan a barcode or search for a desired product.
+
+4. 바코드를 스캔하거나 상품을 검색하여 판매할 상품을 추가하세요.
+
+fb> Tap OK at the bottom.
+
+- 바코드를 스캔하여 상품을 추가하려면, Icon를 터치하세요.
+
+fb> Now the order is registered in the order list. The customer can wait until the requested product is ready.

@@ -12,19 +12,21 @@ as> His experience is wide.
 
 3. The display is 6 by 6 inch in size.
 
-as> The display is 6 by 6 inch.
+as> The size is 6 by 6 inch.
+
+◊c{This is for convey the size, not what the product is}
 
 4. The search function is performed rapidly.
 
-as> The search function performs rapidly.
+as> The search is performed rapidly.
 
 5. We have also manufactured TV transmitting and camera equipment.
 
-as> We manufactures TV transmitting and camera equipment.
+as> We have manufactured TV transmitter and camera.
 
 6. The temperature is ranged from a minimum of 100 to a maximum of 120.
 
-as> The temperature is ranged from 100 to 120.
+as> The temperature range is from 100 to 120.
 
 7. The two transmitters are both alike in the following ways.
 
@@ -41,20 +43,20 @@ as> Replace it with a simple, reliable, inexpensive calibrator.
 
 2. Keep in mind the fact that the phase shift does not of itself distort the output speed.
 
-as> Keep in mind that the phase shift does not distort the output speed.
+as> Keep in mind that the phase shift does not of itself distort the output speed.
 
 3. The facilities engineering department actually installed the navigation aids.
 
-as> The facilities engineering department installed the navigation aids.
+as> The facilities engineering department aided the navigation.
 
 4. Now that we have solved these problems, we can properly align the channels.
 
-as> We can properly align the channels.
+as> We have solved to align the channels.
 
 5. Correct identification cannot be made.
 
-as> We can’t identify.
+as> We can't correct identification.
 
 6. When fully developed, it will have some value in speech analysis.
 
-as> When fully developed, it will be good in speech analysis.
+as> When fully developed, it will have value in speech analysis.

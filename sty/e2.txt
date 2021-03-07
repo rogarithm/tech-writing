@@ -4,11 +4,13 @@ Correct the following sentences.
 
 1. Each group appears successively as green, yellow, and red.
 
-as> Each group appears successively green, yellow, and red.
+as> Each group appears as green, yellow, and red.
 
 2. Take the connectors off of the old components.
 
-as> Take the connectors off the old components.
+◊c{from the usage of the, both connectors and components are what we already know. Because component is less important than connector, if we should remove something, it would be component.}
+
+as> Take off the connectors.
 
 3. Select one out of the four choices.
 
@@ -16,9 +18,11 @@ as> Select one from the four choices.
 
 4. The input data is taken and decoded into two signals.
 
-as> The input data is decoded into two signals.
+as> The input is decoded into two signals.
 
 5. Press and hold down the SHIFT key until another character is entered.
+
+◊c{is active form always better than passive form?}
 
 as> Hold down the SHIFT key until entering another character.
 
@@ -30,11 +34,11 @@ as> The diagrams in this manual use the symbolic below.
 
 7. The materials department has responsibility for making structural studies.
 
-as> The materials department is responsible for making structural studies.
+as> The materials department is responsible for structural studies.
 
 8. This section discusses approaches that can be taken to retrieving data.
 
-as> This section discusses approaches about retrieving data.
+as> This section discusses about retrieving data.
 
 9. The red light indicates that a failure has occurred.
 
@@ -46,7 +50,7 @@ as> Printed wires link the test points.
 
 11. The use of soap aids in cleaning
 
-as> The use of soap aids cleaning.
+as> Soap aids in cleaning.
 
 
 Active voices
@@ -55,7 +59,7 @@ Correct the following sentences.
 
 1. The variable-speed motor is connected to the drive-transmission system.
 
-as> The variable-speed motor connects to the drive-transmission system.
+as> The variable-speed motor connects with the drive-transmission system.
 
 2. The impedance to ground is increased.
 
@@ -63,31 +67,12 @@ as> The impedance to ground increases.
 
 3. The information details are described in Appendix D.
 
-as> Appendix D describes the information details.
+as> Appendix D describes the details.
 
 4. In the following discussion the theory of operation is given.
 
-as> The following discussion gives the theory of operation.
+as> The following discusses the theory of operation.
 
 5. It shows that the difference in specification is caused by two factors.
 
-as> It shows that two factors cause the difference in specification.
-
-
-Making New Order
-Make a new order as follows:
-
-
-1. Touch (fig.) > Shopping Cart > Shopping Cart.
-
-2. After touching (fig.) at the top of screen, select Salesperson.
-
-- The logged in user is selected by default, you can change by selecting other user on the list if necessary.
-
-3. After clicking (fig.) in Customer, select Customer.
-
-The item is not necessary. To register a new customer, touch (fig.). Check “Registering a new customer” on page 16 for the detail.
-
-4. Add selling product by scanning barcode or searching product.
-
-To add product by scanning, touch (fig.). 
+rf> The difference in specification is caused by two factors.

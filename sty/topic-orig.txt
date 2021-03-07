@@ -1,0 +1,35 @@
+주문 생성하기
+
+rf> Creating an order
+
+주문을 생성하려면 다음의 절차를 따르세요.
+
+rf> To create an order, follow the following procedure:
+
+1. Icon > Shopping Cart > Shopping Cart를 터치하세요.
+
+rf> Tap the icon > Shopping Cart > Shopping Cart.
+
+2. 화면 상단의 Icon을 터치한 후, Salesperson을 선택하세요.
+
+rf> After tapping the top of the screen, select Salesperson.
+
+- 로그인한 사용자가 기본으로 선택되어 있으며, 필요 시 목록에서 다른 사용자를 선택하여 변경할 수 있습니다.
+
+rf> The logged in user is selected by default. To modify, select other user from the list.
+
+3. Customer 항목의 Icon를 클릭한 후, Customer를 선택하세요.
+
+rf> After clicking the icon of Customer item, select Customer.
+
+- Customer 항목은 필수 입력 항목이 아닙니다. 기존에 등록되어 있지 않은 고객을 새로 등록하려면, Icon를 터치하세요. 신규고객 등록에 대한 자세한 내용은 16페이지의 "신규 고객 등록하기"를 참고하세요.
+
+rf> The Customer item is not necessary to be put in. To newly register a unregistered customer, touch the icon. For the detail, refer to “Registering a new customer” on page 16 .
+
+4. 바코드를 스캔하거나 상품을 검색하여 판매할 상품을 추가하세요.
+
+rf> Add product to sell by scanning a barcode or searching a product.
+
+- 바코드를 스캔하여 상품을 추가하려면, Icon를 터치하세요.
+
+rf> To add a product by scanning a barcode, touch the icon. 
