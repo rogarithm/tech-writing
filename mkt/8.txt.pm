@@ -12,7 +12,7 @@ as> Working too long may cause the opposite effect on productivity.
 
 4. 언젠가 컴퓨터가 우리의 생활을 접수할 날이 있을 것이다.
 
-as> Someday computer will become an inseparable part of our lives.
+as> Someday computers will become an inseparable part of our lives.
 
 5. 그 회사가 지난 3개월에 걸쳐 최고 기록을 보여주고 있다.
 
