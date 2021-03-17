@@ -1,6 +1,6 @@
 1. 고품질의 제품을 낮은 가격에 계속 제공할 것이다.
 
-as> We'll keep provide high-quality products at a low price.
+as> We'll keep providing high-quality products at a low price.
 
 2. 사업을 활성화시킬 방안을 찾아야 한다.
 
