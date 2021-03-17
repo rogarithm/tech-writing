@@ -8,7 +8,7 @@ as> We must find ways to make the business active.
 
 3. 이 글로벌 시장은 발전할 가능성이 크다.
 
-as> The global market has huge potential of development.
+as> The global market has huge potential for growth.
 
 4. 우리는 이 회사를 본 궤도에 올려놓고 싶어한다.
 
