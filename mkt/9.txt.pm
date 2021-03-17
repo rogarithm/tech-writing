@@ -7,13 +7,13 @@ as> New research is just slightly better than the conventional one.
 as> The business seems to develop rapidly.
 
 3. 빨라도 그때까지 출시하지 못할 것 같다.
-계획보다 페이스가 빠르더라도
-as> The product cannot be released even if it's fast.
+
+as> The product seems highly unlikely to be released until the date.
 
 4. 회사가 이 분야에서 엄청난 잠재력을 가지고 있다.
 
-as> The company has huge potential in the field.
+as> The company has huge potential in the industry.
 
 5. 그들은 작년 막대한 손실을 이월 받았다.
 
-as> They've huge loss carried from last year.
+as> They have a huge loss carryover from previous year.
