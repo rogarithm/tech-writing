@@ -1,10 +1,10 @@
 1. 그 빌딩의 정면을 따라 아홉 개의 아치가 있다.
 
-as> There're 9 arches along the front of the building.
+as> There are 9 arches along the front of the building.
 
 2. 그 빌딩은 엘리베이터가 없는 3층 건물이다.
 
-as> The building has 3 floors without elevator.
+as> The building has 3 floors without an elevator.
 
 3. 신체의 치료 체계와 신념 체계는 밀접하게 연관되어 있다.
 
