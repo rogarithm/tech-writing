@@ -12,7 +12,7 @@ as> The price will decrease after extreme cold weather.
 
 4. 대형 슈퍼들은 자금 회전률이 높다.
 
-as> Supermarkets have high stock turnover ratio.
+as> Supermarkets have high stock turnover ratios.
 
 5. 바로 몇 년 전에 전문가들이 미국 산업의 침체를 선언했다.
 
