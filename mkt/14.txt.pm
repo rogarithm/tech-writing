@@ -12,7 +12,7 @@ as> The yield of oranges in this year might be lower than the yield of previous 
 
 4. 그런 추세가 계속 진행되어서 CDMA 관련 사업을 하나로 묶을지도 모른다.
 
-as> If the tendency continues, CDMA relavant businesses would be merged.
+as> If the tendency continues, CDMA relevant businesses would be merged.
 
 5. 사업이 잘 진행되고 있다.
 
