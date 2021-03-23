@@ -1,6 +1,6 @@
 1. 매출이 비약적으로 성장했다.
 
-as> The revenue have grown rapidly.
+as> The revenue has grown rapidly.
 
 2. 그들이 세게 나왔지만 결국 우리가 우위를 점했다.
 
