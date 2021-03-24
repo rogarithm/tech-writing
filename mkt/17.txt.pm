@@ -20,4 +20,4 @@ as> Introducing the satellite antenna is rapidly changing the world's most dense
 
 6. 휴대폰에 대한 무선 충전 기술의 상용화는 아직도 갈 길이 멀다.
 
-as> Popularization of wireless charging for cell phones has long way to go.
+as> Popularization of wireless charging for cell phones has a long way to go.
