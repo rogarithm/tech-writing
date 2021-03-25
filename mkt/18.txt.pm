@@ -16,7 +16,7 @@ as> A creative and inventive plan soon will be made.
 
 5. 미국에서는 디지털 서적의 매출이 인쇄 서적의 매출을 앞지르고 있다.
 
-as> In America, sales of e-books has exceeded the sales of paperback.
+as> In America, sales of e-books have exceeded the sales of paperbacks.
 
 6. 아무 것도 정해지지 않았다.
 
